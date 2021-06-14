@@ -27,4 +27,5 @@ CommonModule,
     BsNavbarComponent
   ]
 })
+
 export class CoreModule { }
